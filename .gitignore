@@ -7,8 +7,11 @@ __pycache__/
 
 # Environment variables and secrets
 .env
+.env.*
 
 # IDE settings
 .vscode/
 
-# Local Git configuration
+# Operating system files
+.DS_Store
+Thumbs.db
